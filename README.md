@@ -1,4 +1,4 @@
-![Banner Image](https://pin.it/3nV9X6D)
+<img src="https://drive.google.com/file/d/17wSrPXFBFlZza4kZdwFdcpro6nz-1crV/view?usp=share_link" alt="Banner Image">
 
 
 Hello world!
