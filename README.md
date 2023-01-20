@@ -13,8 +13,9 @@ Hello world!
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Maina__Njeri)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/lucymaina)
 
-![NjeriMaina4172's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172&layout=compact&theme=dark)](https://github.com/NjeriMaina4172/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=NjeriMaina4172&theme=onedark)](https://github.com/NjeriMaina4172/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjeriMaina4172&theme=gruvbox_duo)](https://git.io/streak-stats)
+![NjeriMaina4172's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NjeriMaina4172&theme=onedark)](https://github.com/NjeriMaina4172/github-profile-trophy)
+
 
