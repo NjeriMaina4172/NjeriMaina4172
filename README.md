@@ -6,15 +6,7 @@ I am a fifth year student at thee University of Nairobi of Nairobi pursuing Bach
 
 How to reach me: 💌lucymaina4172@gmail.com
 
-![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&count_private=true)
-![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true)
-![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NjeriMaina4172&repo=github-readme-stats)](https://github.com/NjeriMaina4172/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172)](https://github.com/NjeriMaina4172/github-readme-stats)
+![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172&layout=compact)](https://github.com/NjeriMaina4172/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
