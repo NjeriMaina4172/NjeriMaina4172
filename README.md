@@ -11,5 +11,4 @@ How to reach me: 💌lucymaina4172@gmail.com
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/lucymaina)
 
 ![NjeriMaina4172's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NjeriMaina4172&repo=github-readme-stats)](https://github.com/NjeriMaina4172/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172&layout=compact&theme=dark)](https://github.com/NjeriMaina4172/github-readme-stats)
