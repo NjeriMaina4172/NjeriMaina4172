@@ -6,5 +6,6 @@ I am a fifth year student at thee University of Nairobi of Nairobi pursuing Bach
 
 How to reach me: 💌lucymaina4172@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjeriMaina4172&theme=gruvbox_duo&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjeriMaina4172&theme=onedark)](https://github.com/NjeriMaina4172/github-profile-trophy)
 
