@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/file/d/17wSrPXFBFlZza4kZdwFdcpro6nz-1crV/view?usp=share_link" alt="Banner Image">
-
 
 Hello world!
 
@@ -12,4 +10,4 @@ How to reach me: 💌lucymaina4172@gmail.com
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Maina__Njeri)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/lucymaina)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=radical)
