@@ -1,3 +1,6 @@
+![Banner Image](https://pin.it/3nV9X6D)
+
+
 Hello world!
 
 I am a fifth year student at thee University of Nairobi of Nairobi pursuing Bachelor of Medicine and Bachelor of Surgery👩‍⚕. I am also a software engineering student at Africa Leadership X(ALX) and a beneficiary of the Power Learn Project.🦋 Being an enthusiastic learner and a determined problem-solver, I have a vision to make a difference in the medical field and healthcare delivery using technology.🦋I am currently learning web development, python, data structures and algorithms and I am happy to mentor any tech newbies👼
