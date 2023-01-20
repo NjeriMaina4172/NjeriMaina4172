@@ -6,7 +6,6 @@ I am a fifth year student at thee University of Nairobi of Nairobi pursuing Bach
 
 How to reach me: 💌lucymaina4172@gmail.com
 
-[![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172)](https://github.com/NjeriMaina4172/github-readme-stats)
 ![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&count_private=true)
 ![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true)
 ![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=radical)
