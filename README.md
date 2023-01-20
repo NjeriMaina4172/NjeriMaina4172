@@ -16,4 +16,5 @@ Hello world!
 ![NjeriMaina4172's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjeriMaina4172&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172&layout=compact&theme=dark)](https://github.com/NjeriMaina4172/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjeriMaina4172&theme=gruvbox_duo)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjeriMaina4172&theme=onedark)](https://github.com/NjeriMaina4172/github-profile-trophy)
