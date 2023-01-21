@@ -6,12 +6,12 @@ Hello world!
 ⚡Being an enthusiastic learner and a determined problem-solver, I have a vision to make a difference in the medical field and healthcare delivery using technology.
 🦋I am currently learning web development, python, data structures and algorithms and I am happy to mentor any tech newbies👼
 
-⚡ Fun fact: Dancing is my favorite activity to do and oh, pineapple is my favorite fruit.😄 Pronouns: She/Her
 
 🦋How to reach me: 💌lucymaina4172@gmail.com
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Maina__Njeri)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/lucymaina)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjeriMaina4172&layout=compact&theme=dark)](https://github.com/NjeriMaina4172/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjeriMaina4172&theme=gruvbox_duo)](https://git.io/streak-stats)
